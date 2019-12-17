@@ -1,0 +1,2 @@
+# ignorant
+Ignorant about coding
